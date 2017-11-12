@@ -1,16 +1,15 @@
 ---
 layout: post
-subheadline: "Mentoring is Back!"
-title: "Round Two of the Carpentries Mentoring Program begins October 25th"
-teaser: "Mentoring groups provide experienced instructors with the chance to help small groups develop confidence in teaching, lesson maintenance and community building."
-header:
- image_fullwidth: "light-blue-wood-texture.jpg"
-categories:
-   - blog
-comments: true
-show_meta: true
-authors: ["Kari L. Jordan", “Belinda Weaver”]
+authors: ["Kari L. Jordan", "Belinda Weaver"]
+title: "Mentoring is Back! Round Two of the Carpentries Mentoring Program begins October 25th"
+date: "2017-10-05"
+time: "06:00:00"
+category: ["Mentoring", "Champions", "Community Building"]
+
 ---
+
+### Mentoring groups provide experienced instructors with the chance to help small groups develop confidence in teaching, lesson maintenance and community building
+
 The inaugural Carpentries mentoring program was a great success, and we have used the feedback we received from both mentors and mentees to craft a new and improved mentoring experience in round two. The next round will run October 25th - January 10th.
 
 According to round one participants, the benefits of mentoring included greater understanding of the challenges new instructors face, more clarity about why we teach what we teach, getting timely responses to questions, and community engagement.
@@ -18,6 +17,7 @@ According to round one participants, the benefits of mentoring included greater 
 Participants felt the program could be improved if mentoring groups had specific goals, and if we gave mentors more guidance on how to run mentoring sessions.
 
 We listened to that feedback and have made changes to the program. We are now offering curriculum-specific mentoring: both mentors and mentees can choose which tools they are most interested in discussing from the following list:
+
 + Git  
 + Shell  
 + Python  
@@ -25,6 +25,7 @@ We listened to that feedback and have made changes to the program. We are now of
 + SQL
 
 Once a topic has been selected, participants can choose what aspect of mentoring they want for their chosen tool:
+
 + Lesson Maintenance  
   - Contributing to current lesson development  
   - Contributing to lesson maintenance  
@@ -34,7 +35,7 @@ Once a topic has been selected, participants can choose what aspect of mentoring
 
 Additionally, we plan to offer mentoring on two big issues:
 
- Organizing Workshops   
++ Organizing Workshops
   - Logistics of organizing a workshop (e.g. marketing, registration)  
   - Logistics of running a workshop (e.g. recruiting instructors, distributing tasks)  
 + Community Building  
